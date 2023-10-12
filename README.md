@@ -36,7 +36,7 @@ HHA 504 Week 4B assignment
 9. Please return to google shell where you will now type in the command sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf and scroll down to the bind-addres. This should be changed to 0.0.0.0.
 10. Click ctrl+0 to save and type in the command /etc/init.d/mysql restart to restart it and log in to save the changes.
 11. Now that those changes are complete, open MySQL Workbench and click on add connection. Under hosname, that is your IP address from Azure. Username and password are the ones created during the process of setting up your Azure VM. click test conenction to ensure your information was added correctly.
-12. To create the database, please see the MYSQL folder or click the following link: https://github.com/jward6301/flask_4_databases_mysql_vm/blob/main/MYSQL/code.sql.
+12. To create the database, please see the MYSQL folder or click the following link: https://github.com/jward6301/flask_4_databases_mysql_vm/blob/main/MYSQL/code.sql. The basis for the code was provided by Professor Williams and was not changed. 
 
 
 ## Flask Integration
